@@ -1,0 +1,3 @@
+- file "app_test.py" là file khởi chạy chương trình.
+- file "UART_esp.ino" là file để nạp vào device (ở đây là ESP32).
+- chương trình sẽ đọc những kí tự yêu cầu trong file "banana_config.txt, orange_config.txt và apple_config.txt" để thực hiện gửi các Serial cần thiết.
